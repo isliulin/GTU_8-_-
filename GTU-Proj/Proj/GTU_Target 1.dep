@@ -1,0 +1,2 @@
+Dependencies for Project 'GTU', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_hd.s)(0x4E77FD02)(--cpu Cortex-M3 -g --apcs=interwork -I "d:\Program Files\Keil\ARM\CMSIS\Include" -I "d:\Program Files\Keil\ARM\INC\ST\STM32F10x" --list "startup_stm32f10x_hd.lst" --xref -o "startup_stm32f10x_hd.o" --depend "startup_stm32f10x_hd.d")

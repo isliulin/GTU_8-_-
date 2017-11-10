@@ -1,0 +1,14 @@
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\bin\Debug\GTU上位机.exe.config
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\bin\Debug\GTU上位机.exe
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\bin\Debug\GTU上位机.pdb
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\MainWindow.g.cs
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\App.g.cs
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机_MarkupCompile.cache
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机_MarkupCompile.lref
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\MainWindow.baml
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机.g.resources
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机.Properties.Resources.resources
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机.csproj.GenerateResource.Cache
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机.exe
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机.pdb
+H:\测试程序\8月\GTU_8月份_低功耗测试\GTU上位机\GTU上位机\GTU上位机\obj\Debug\GTU上位机.csprojResolveAssemblyReference.cache

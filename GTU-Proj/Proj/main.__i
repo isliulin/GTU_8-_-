@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I "E:\Programe files\Keil\ARM\CMSIS\Include" -I "E:\Programe files\Keil\ARM\INC\ST\STM32F10x" -o "main.o" --omf_browse "main.crf" --depend "main.d" "..\User\main.c"

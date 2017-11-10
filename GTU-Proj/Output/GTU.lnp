@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "startup_stm32f10x_hd.o" "main.o" "basic_func.o" "sys_init.o" "app.o" "stm32f10x_it.o" "..\Lib\STM32F10xR.LIB" --library_type=microlib --strict --scatter "..\output\GTU.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\..\output\GTU.map" -o "..\output\GTU.axf"
